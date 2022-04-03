@@ -1,2 +1,5 @@
-# QR_code_component
-https://www.frontendmentor.io     challenges
+# CT_dashboard
+Dashboard for CT Website
+
+## Important Notes :
+1 - do not ...
